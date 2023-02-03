@@ -1,0 +1,7 @@
+{
+  "name": "eps",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
